@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ukm_tugas_1</string>
+    <string name="deskripsi_1"> Nama\n
+    TTL\n
+    Jenis Kelamin\n
+    Status\n
+    Jurusan\n
+    Semester\n
+    No. Telp\n
+    Email\n</string>
+    <string name="deskripsi_2"> : Dhiaulhaq Muhammad Naufal\n
+    : Tangerang, 28 April 1999\n
+    : Laki-laki\n
+    : Lajang\n
+    : TI\n
+    : 2\n
+    : 081311008828\n
+    : dmnaufal64@yahoo.co.id</string>
+</resources>
